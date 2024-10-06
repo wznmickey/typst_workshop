@@ -37,6 +37,15 @@
 
 Typst 是一个Markup语言，目前是用 `Rust` 写的实现，支持多种模式，包括*标记模式*、*数学模式*和*代码模式*。它的设计目标是提供一种更加直观、易用的文档编辑方式，同时提供 #LaTeX 的强大功能。
 
+== 使用Typst的方式
+
+文件名后缀为`.typ`，可以通过以下方式使用Typst：
+
+1. 在Typst的官网上使用在线编辑器 https://typst.app/
+2. 使用Typst的VSCode插件，在vscode中编辑
+
+
+
 == 一些资源
 === 文档
 - https://typst-doc-cn.github.io/docs/packages/
